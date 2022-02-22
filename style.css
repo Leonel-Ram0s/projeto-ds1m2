@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(#c95959, #da1111, #0a0ca5);
+}
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    height: 20vw;
+}
+
+h1{
+    color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
